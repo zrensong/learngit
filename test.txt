@@ -3,3 +3,6 @@ kb kb kb 啊啊啊
 真是的啊！！！
 
 还可以这样吗
+
+Creating a new branch is quick
+创建了一个新分支
