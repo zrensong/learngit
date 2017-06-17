@@ -9,3 +9,5 @@ Creating a new branch is quick and simple.
 创建了一个新分支 feature1
 
 看看能不能提交
+
+分支管理策略:
