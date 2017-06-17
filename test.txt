@@ -4,5 +4,5 @@ kb kb kb 啊啊啊
 
 还可以这样吗
 
-Creating a new branch is quick
+Creating a new branch is quick & simple
 创建了一个新分支
