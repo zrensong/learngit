@@ -11,3 +11,10 @@ Creating a new branch is quick and simple.
 看看能不能提交
 
 分支管理策略:
+
+在dev分支上开发新的需求
+
+要修复一个BUG，将dev分支的内容“储藏” git stash
+
+
+BUG修复完成，继续在dev分支上开发新需求。git stash pop/git stash apply&git stash drop 
